@@ -1,0 +1,28 @@
+/*__________________menu___________________*/
+.head{
+    background-color: #1E0B36;
+    padding: 10px 0;
+    color: #fff;
+}
+.head i{
+    margin-right: 10px;
+}
+.head label {
+    margin-right: 30px;
+    font-size: 13px;
+}
+/*__________________menu___________________*/
+.backgroud{
+    background-color: #ffff;
+    padding: 50px 0;
+  
+  }
+.container{
+    max-width: 90%;
+    margin: auto;
+  }
+.barra {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
