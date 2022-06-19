@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './Header/header';
 import Home from './Home/Home';
-
+import Outfit from './Outfit/produtos'
 class App extends React.Component {
   state = {
 		telaAtual: "Home"
@@ -28,7 +28,7 @@ class App extends React.Component {
     return (
       <div>
         <Header />
-        <Home />
+        <Outfit />
       </div>
     );
   }
